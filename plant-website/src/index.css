@@ -50,3 +50,28 @@ header {
   padding: 28px 30%;
   text-align: center;
 }
+
+.plant-h1 {
+  font-size: 3rem;
+  display: flex;
+  justify-content: center;
+  font-family: 'Playfair Display', serif;
+  color: #7f7f7f;
+  padding-bottom: 2rem;
+}
+
+img {
+  width: 300px;
+  padding-top: 20px;
+}
+
+.images {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.plants {
+  width: 400px;
+  text-align: center;
+}
